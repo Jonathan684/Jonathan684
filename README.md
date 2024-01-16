@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hi, I am Jonathan 👋
 
-<!--
-**Jonathan684/Jonathan684** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Software Developer
 
-Here are some ideas to get you started:
+Hello! I am a software developer passionate about creating innovative solutions and continuous learning. I have experience in software development at both low and high levels, covering various technologies and programming languages.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- C 🖥️
+- JavaScript 🌐
+- Python 🐍
+- Java ☕
+- C++ 🖥️
+- Go 🖥️
+- Django 🌐
+- Docker 🐳
+- Data Analysis Tools (SciPy, Pandas, NumPy)
+- Web Development (HTML, CSS, React.js)
+- Database Management (MySQL, PostgreSQL, Redis)
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/jonathan-armando-patino)
+- [Email](mailto:jonathan.lafalda@gmail.com)
+
+Thank you for visiting my GitHub profile! If you have any questions or would like to collaborate on a project, feel free to contact me!
+
